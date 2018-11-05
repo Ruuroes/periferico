@@ -11,7 +11,7 @@ Su función es interconectar dos o más host de manera similar a los puentes de 
 ## Funcionamiento del conmutador.
 
 
-Los conmutadores poseen la capacidad de almacenar las direcciones de red de la capa 2 de los dispositivos alcanzables a través de cada uno de sus puertos. Por ejemplo, un equipo conectado directamente a un puerto de un conmutador provoca que el conmutador almacene su dirección MAC(también llamada dirección física). Esto permite que, a diferencia de los concentradores, la información dirigida a un dispositivo vaya desde el puerto origen al puerto de destino.
+Los conmutadores poseen la capacidad de almacenar las direcciones de red de los dispositivos alcanzables a través de cada uno de sus puertos. Por ejemplo, un equipo conectado directamente a un puerto de un conmutador provoca que el conmutador almacene su dirección MAC(también llamada dirección física). Esto permite que, a diferencia de los concentradores, la información dirigida a un dispositivo vaya desde el puerto origen al puerto de destino.
 
 
 En el caso de conectar dos conmutadores o un conmutador y un concentrador, cada conmutador aprenderá las direcciones MAC de los dispositivos accesibles por sus puertos, por lo tanto en el puerto de interconexión se almacenan las MAC de los dispositivos del otro conmutador.
