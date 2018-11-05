@@ -8,7 +8,7 @@ Su función es interconectar dos o más host de manera similar a los puentes de 
 
 
 ![]
-(https://www.desordena.es/multimedia/imagenes_med/1912_2147.JPG)
+https://www.desordena.es/multimedia/imagenes_med/1912_2147.JPG
 ## Funcionamiento del conmutador.
 
 
