@@ -7,8 +7,7 @@ El switch es es el dispositivo digital lógico de interconexión de equipos que 
 Su función es interconectar dos o más host de manera similar a los puentes de red, pasando datos de un segmento a otro.
 
 
-![]
-https://www.desordena.es/multimedia/imagenes_med/1912_2147.JPG
+![Foto del Switch] (https://www.desordena.es/multimedia/imagenes_med/1912_2147.JPG)
 ## Funcionamiento del conmutador.
 
 
