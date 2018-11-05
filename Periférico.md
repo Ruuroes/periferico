@@ -44,6 +44,7 @@ Hay tres tipos:
 Los conmutadores de capa 3 soportan también la definición de redes virtuales (VLAN), y según modelos posibilitan la comunicación entre las diversas VLAN sin la necesidad de utilizar un router externo.
 
 Conmutadores de capa 4:
+
 Están en el mercado hace poco tiempo y hay una controversia en relación con la adecuada clasificación de estos equipos. 
 
 Básicamente, incorporan a las funcionalidades de un switch de capa 3 la habilidad de implementar la políticas y filtros a partir de informaciones de capa 4 o superiores.
