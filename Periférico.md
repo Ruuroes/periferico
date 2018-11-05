@@ -33,11 +33,12 @@ Hay tres tipos:
 
 ### Según la segmentación de las subredes.
 
- Conmutadores de capa dos: 
+ Conmutadores de capa 2: 
 
  Son los conmutadores tradicionales, que funcionan como puentes multi-puertos. Su principal finalidad es dividir una LAN en múltiples dominios de colisión, o en los casos de las redes en anillo, segmentar la LAN en diversos anillos.
 
  Conmutadores de capa 3:
+ 
  Son los conmutadores que, además de las funciones tradicionales de la capa 2, incorporan algunas funciones de enrutamiento, como por ejemplo la validación de la integridad del cableado de la capa 3 por checksum y soporte a los protocolos de routing tradicionales (RIP, OSPF, etc)
 
 Los conmutadores de capa 3 soportan también la definición de redes virtuales (VLAN), y según modelos posibilitan la comunicación entre las diversas VLAN sin la necesidad de utilizar un router externo.
